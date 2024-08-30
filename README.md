@@ -1,5 +1,5 @@
-# DiscussHub
-DiscussHub is a fully-featured social media web application, built with the MERN stack.  
+# Connectify
+Connectify is a fully-featured social media web application, built with the MERN stack.  
 
 ## Features
 - Create, read, update and delete posts
@@ -16,8 +16,6 @@ DiscussHub is a fully-featured social media web application, built with the MERN
 - Search for posts by their title
 - View the users who liked a particular post
 
-MONGO_URI=<YOUR_MONGO_URI> 
-TOKEN_KEY=<YOUR_TOKEN_KEY>
-PORT=4000
+
 
 
